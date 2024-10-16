@@ -31,7 +31,7 @@ Hi, my name is Farneet Singh, a passionate **ML Researcher & Developer** focused
 ---
 
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=python,js,react,django,nextjs,gcp,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,cpp,react,django,nextjs,gcp,aws,postgres,mongodb,tensorflow,pytorch,git,opencv,docker)](https://skillicons.dev)
 
 ---
 
