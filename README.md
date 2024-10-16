@@ -21,7 +21,7 @@ I am currently working on projects and researching fields such as Emotion Recogn
 ---
 
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,js,pytorch,tensorflow,react,django,nextjs,postgres,r,mqsql,flask,gcp,opencv,git,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,js,pytorch,tensorflow,react,django,nextjs,postgres,r,sklearn,mysql,flask,gcp,opencv,git,docker)](https://skillicons.dev)
 
 ---
 
