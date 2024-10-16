@@ -8,7 +8,9 @@
 
 ---
 
-Hi, my name is Farneet Singh, a passionate **ML Researcher & Developer** focused on creating impactful, intelligent solutions. I enjoy solving complex problems, sharing knowledge, and staying curious about everything tech. Currently working on projects and research in fields like **Emotion Recognition**, **AI Automation**, and **Competitive Programming**, I’m always ready to push the boundaries of innovation.
+Hi, my name is Farneet Singh. I am a curious ML Researcher and developer focused on creating impactful, intelligent solutions. I enjoy solving complex problems, sharing knowledge, and staying curious about everything tech. 
+
+I am currently working on projects and researching fields such as Emotion Recognition, AI Automation, and Competitive Programming, and I’m always ready to push the boundaries of innovation.
 
 - 🔍 **Research Areas**: Multi-Modal Emotion Recognition, Deblurring GANs, AI-powered automation
 - 🚀 **Projects**: ThreadMind (comment analysis), Scribble (NLP-powered writing tool), Leetcode Company-Wise Tracker
