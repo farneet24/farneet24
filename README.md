@@ -2,21 +2,22 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/farneet-singh-6b155b208/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" width="50px" style="margin: 10px; background-color: #0077B5; padding: 10px; border-radius: 8px;"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" width="50px" style="margin: 10px; padding: 10px; border-radius: 8px; background-color: #0077B5; fill: white;"/>
   </a>
   <a href="https://github.com/farneet24" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" alt="GitHub" width="50px" style="margin: 10px; background-color: #181717; padding: 10px; border-radius: 8px;"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" alt="GitHub" width="50px" style="margin: 10px; padding: 10px; border-radius: 8px; background-color: #181717; fill: white;"/>
   </a>
   <a href="https://www.kaggle.com/farneetsingh24" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/kaggle.svg" alt="Kaggle" width="50px" style="margin: 10px; background-color: #20BEFF; padding: 10px; border-radius: 8px;"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/kaggle.svg" alt="Kaggle" width="50px" style="margin: 10px; padding: 10px; border-radius: 8px; background-color: #20BEFF; fill: white;"/>
   </a>
   <a href="https://auth.geeksforgeeks.org/user/farneetsinghabhi/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/2560px-GeeksforGeeks.svg.png" alt="GeeksforGeeks" width="50px" style="margin: 10px; background-color: #0F9D58; padding: 10px; border-radius: 8px;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/2560px-GeeksforGeeks.svg.png" alt="GeeksforGeeks" width="50px" style="margin: 10px; padding: 10px; border-radius: 8px; background-color: #0F9D58; fill: white;"/>
   </a>
   <a href="https://leetcode.com/farneetsinghabhi/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/leetcode.svg" alt="LeetCode" width="50px" style="margin: 10px; background-color: #FFA116; padding: 10px; border-radius: 8px;"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/leetcode.svg" alt="LeetCode" width="50px" style="margin: 10px; padding: 10px; border-radius: 8px; background-color: #FFA116; fill: white;"/>
   </a>
 </div>
+
 
 
 
