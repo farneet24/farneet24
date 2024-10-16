@@ -54,5 +54,5 @@ Hi, my name is Farneet Singh, a passionate **ML Researcher & Developer** focused
 
 ---
 
-🌱 **Building impactful solutions one project at a time. Stay curious, stay innovative.** 🌟
+![](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
