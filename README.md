@@ -1,25 +1,22 @@
 # ![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=FFCC00&center=true&vCenter=true&width=550&lines=The+Force+will+be+with+you%2C+always.)
 
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/farneet-singh-6b155b208/" target="_blank">
-    <img src="https://www.citypng.com/public/uploads/preview/hd-vector-flat-linkedin-in-round-icon-png-701751695046390m4phkuuiqm.png" alt="LinkedIn" width="50px" style="margin: 0 15px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50px" style="margin: 10px; background-color: #0077B5; padding: 10px; border-radius: 8px;"/>
   </a>
   <a href="https://github.com/farneet24" target="_blank">
-    <img src="https://banner2.cleanpng.com/20180711/iqy/aawpwnuou.webp" alt="GitHub" width="50px" style="margin: 0 15px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50px" style="margin: 10px; background-color: #181717; padding: 10px; border-radius: 8px;"/>
   </a>
   <a href="https://www.kaggle.com/farneetsingh24" target="_blank">
-    <img src="https://w7.pngwing.com/pngs/423/280/png-transparent-kaggle-logo-logos-logos-and-brands-icon-thumbnail.png" alt="Kaggle" width="50px" style="margin: 0 15px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="50px" style="margin: 10px; background-color: #20BEFF; padding: 10px; border-radius: 8px;"/>
   </a>
   <a href="https://auth.geeksforgeeks.org/user/farneetsinghabhi/" target="_blank">
-    <img src="https://media.geeksforgeeks.org/wp-content/uploads/20210511160813/g4g.jpg" alt="GeeksforGeeks" width="50px" style="margin: 0 15px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="GeeksforGeeks" width="50px" style="margin: 10px; background-color: #0F9D58; padding: 10px; border-radius: 8px;"/>
   </a>
   <a href="https://leetcode.com/farneetsinghabhi/" target="_blank">
-    <img src="https://image.pngaaa.com/118/4868118-middle.png" alt="LeetCode" width="50px" style="margin: 0 15px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="LeetCode" width="50px" style="margin: 10px; background-color: #FFA116; padding: 10px; border-radius: 8px;"/>
   </a>
-  <a href="#">
-    <img src="https://i.pinimg.com/originals/91/80/42/91804252cd1852932aa015afbe1e03e9.jpg" alt="Profile Views" width="50px" style="margin: 0 15px;"/>
-  </a>
-</p>
+</div>
 
 
 ---
