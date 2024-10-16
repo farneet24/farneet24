@@ -1,25 +1,25 @@
 # ![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=FFCC00&center=true&vCenter=true&width=550&lines=The+Force+will+be+with+you%2C+always.)
 
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/farneet-singh-6b155b208/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 0 5px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://www.citypng.com/public/uploads/preview/hd-vector-flat-linkedin-in-round-icon-png-701751695046390m4phkuuiqm.png" alt="LinkedIn" width="50px" style="margin: 0 15px;"/>
   </a>
   <a href="https://github.com/farneet24" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 0 5px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://banner2.cleanpng.com/20180711/iqy/aawpwnuou.webp" alt="GitHub" width="50px" style="margin: 0 15px;"/>
   </a>
   <a href="https://www.kaggle.com/farneetsingh24" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" style="margin: 0 5px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://w7.pngwing.com/pngs/423/280/png-transparent-kaggle-logo-logos-logos-and-brands-icon-thumbnail.png" alt="Kaggle" width="50px" style="margin: 0 15px;"/>
   </a>
   <a href="https://auth.geeksforgeeks.org/user/farneetsinghabhi/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" style="margin: 0 5px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://media.geeksforgeeks.org/wp-content/uploads/20210511160813/g4g.jpg" alt="GeeksforGeeks" width="50px" style="margin: 0 15px;"/>
   </a>
   <a href="https://leetcode.com/farneetsinghabhi/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" style="margin: 0 5px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://image.pngaaa.com/118/4868118-middle.png" alt="LeetCode" width="50px" style="margin: 0 15px;"/>
   </a>
   <a href="#">
-    <img src="https://komarev.com/ghpvc/?username=farneet24&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" style="margin: 0 5px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://i.pinimg.com/originals/91/80/42/91804252cd1852932aa015afbe1e03e9.jpg" alt="Profile Views" width="50px" style="margin: 0 15px;"/>
   </a>
-</div>
+</p>
 
 
 ---
