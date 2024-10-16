@@ -5,6 +5,7 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/farneetsingh24)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/farneetsinghabhi/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/farneetsinghabhi/)
+![Profile Views](https://komarev.com/ghpvc/?username=farneet24&label=Profile%20views&color=0e75b6&style=for-the-badge)
 
 ---
 
