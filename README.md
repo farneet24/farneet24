@@ -29,7 +29,5 @@ I am currently working on projects and researching fields such as Emotion Recogn
 ![Farneet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farneet24&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farneet24&layout=compact&theme=radical)
 
----
-
 ![](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
