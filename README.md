@@ -5,9 +5,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50px" style="margin: 10px; background-color: #0077B5; padding: 10px; border-radius: 8px;"/>
   </a>
   <a href="https://github.com/farneet24" target="_blank">
-    
-    <i class="devicon-github-original"></i>
-          
+      <i class="devicon-github-original"></i>    
   </a>
   <a href="https://www.kaggle.com/farneetsingh24" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="50px" style="margin: 10px; background-color: #20BEFF; padding: 10px; border-radius: 8px;"/>
