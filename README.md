@@ -11,7 +11,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="50px" style="margin: 10px; background-color: #20BEFF; padding: 10px; border-radius: 8px;"/>
   </a>
   <a href="https://auth.geeksforgeeks.org/user/farneetsinghabhi/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="GeeksforGeeks" width="50px" style="margin: 10px; background-color: #0F9D58; padding: 10px; border-radius: 8px;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/2560px-GeeksforGeeks.svg.png" alt="GeeksforGeeks" width="50px" style="margin: 10px; background-color: #0F9D58; padding: 10px; border-radius: 8px;"/>
   </a>
   <a href="https://leetcode.com/farneetsinghabhi/" target="_blank">
     <img src="https://company-wise-leetcode-farneet.netlify.app/leetcode.svg" alt="LeetCode" width="50px" style="margin: 10px; background-color: #FFA116; padding: 10px; border-radius: 8px;"/>
