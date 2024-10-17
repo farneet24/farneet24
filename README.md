@@ -12,36 +12,44 @@
 
 ---
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    <h1 style="font-size: 24px;">Hi, I'm Farneet Singh 👋</h1>
-    <p style="font-size: 14px;">I am a curious ML Researcher and developer focused on creating impactful, intelligent solutions. I enjoy solving complex problems, sharing knowledge, and staying curious about everything tech.</p>
-    <p style="font-size: 14px;">I am currently working on projects and researching fields such as Emotion Recognition, AI Automation, and Competitive Programming, and I'm always ready to push the boundaries of innovation.</p>
-    <h3 style="font-size: 18px;">🔍 Research Areas</h3>
-    <ul style="font-size: 14px;">
-      <li>Multi-Modal Emotion Recognition</li>
-      <li>Deblurring GANs</li>
-      <li>AI-powered automation</li>
-    </ul>
-    <h3 style="font-size: 18px;">🚀 Projects</h3>
-    <ul style="font-size: 14px;">
-      <li>ThreadMind (comment analysis)</li>
-      <li>Scribble (NLP-powered writing tool)</li>
-      <li>Leetcode Company-Wise Tracker</li>
-    </ul>
-    <h3 style="font-size: 18px;">📚 Certifications & Skills</h3>
-    <ul style="font-size: 14px;">
-      <li>Experienced in NLP</li>
-      <li>Fine-tuning models (BERT, BART, T5)</li>
-      <li>Skilled in frameworks like React, Django, and NextJS</li>
-    </ul>
-    <h3 style="font-size: 18px;">🌐 Competitive Programming</h3>
-    <p style="font-size: 14px;">Continuously honing problem-solving skills with a focus on time management and creative thinking.</p>
-  </div>
-  <div style="flex: 0;">
-    <img src="star-wars-gif-1.gif" alt="Profile Banner" style="width: 300px; margin-left: 20px;">
-  </div>
-</div>
+<img align="right" width="300" src="star-wars-gif-1.gif" alt="Profile Banner"/>
+
+<h1 style="font-size: 24px;">Hi, I'm Farneet Singh 👋</h1>
+
+<p style="font-size: 14px; line-height: 1.6;">
+I am a curious ML Researcher and developer focused on creating impactful, intelligent solutions. I enjoy solving complex problems, sharing knowledge, and staying curious about everything tech.
+</p>
+
+<p style="font-size: 14px; line-height: 1.6;">
+I am currently working on projects and researching fields such as Emotion Recognition, AI Automation, and Competitive Programming, and I'm always ready to push the boundaries of innovation.
+</p>
+
+<h3 style="font-size: 18px;">🔍 Research Areas</h3>
+<ul style="font-size: 14px; line-height: 1.6;">
+  <li>Multi-Modal Emotion Recognition</li>
+  <li>Deblurring GANs</li>
+  <li>AI-powered automation</li>
+</ul>
+
+<h3 style="font-size: 18px;">🚀 Projects</h3>
+<ul style="font-size: 14px; line-height: 1.6;">
+  <li>ThreadMind (comment analysis)</li>
+  <li>Scribble (NLP-powered writing tool)</li>
+  <li>Leetcode Company-Wise Tracker</li>
+</ul>
+
+<h3 style="font-size: 18px;">📚 Certifications & Skills</h3>
+<ul style="font-size: 14px; line-height: 1.6;">
+  <li>Experienced in NLP</li>
+  <li>Fine-tuning models (BERT, BART, T5)</li>
+  <li>Skilled in frameworks like React, Django, and NextJS</li>
+</ul>
+
+<h3 style="font-size: 18px;">🌐 Competitive Programming</h3>
+<ul style="font-size: 14px; line-height: 1.6;">
+  <li>Continuously honing problem-solving skills</li>
+  <li>Focus on time management and creative thinking</li>
+</ul>
 
 ---
 
