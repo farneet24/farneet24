@@ -29,8 +29,6 @@ I am currently working on projects and researching fields such as Emotion Recogn
 | - Deblurring GANs                          | - Scribble (NLP-powered writing tool)           | - Fine-tuning models (BERT, BART, T5)              | - Focus on time management and creative thinking |
 | - AI-powered automation                    | - Leetcode Company-Wise Tracker                 | - Skilled in frameworks like React, Django, NextJS | |
 
-<br>
-<br>
 ---
 
 ## My Skills
