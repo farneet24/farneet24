@@ -14,7 +14,7 @@
 <div style="display: flex; align-items: center; gap: 20px;">
 
   <div style="flex: 1;">
-    <img src="https://e1.pxfuel.com/desktop-wallpaper/202/791/desktop-wallpaper-2-anakin-skywalker-gif-luke-skywalker-vs-darth-vader.jpg" alt="Curiosity and Innovation" width="100%"/>
+    <img src="star-wars-gif-1" alt="Curiosity and Innovation" width="100%"/>
   </div>
 
   <div style="flex: 2;">
