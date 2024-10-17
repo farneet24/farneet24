@@ -12,44 +12,27 @@
 
 ---
 
-<img align="right" width="500" src="star-wars-gif-1.gif" alt="Profile Banner"/>
+<table>
+  <tr>
+    <td>
+      <img align="right" width="400" src="star-wars-gif-1.gif" alt="Profile Banner"/>
+    </td>
+    <td>
+      <h1>Hi, I'm Farneet Singh 👋</h1>
+      <p>I am a curious ML Researcher and developer focused on creating impactful, intelligent solutions. I enjoy solving complex problems, sharing knowledge, and staying curious about everything tech.</p>
+      <p>I am currently working on projects and researching fields such as Emotion Recognition, AI Automation, and Competitive Programming, and I'm always ready to push the boundaries of innovation.</p>
+    </td>
+  </tr>
+</table>
 
-<h1 style="font-size: 24px;">Hi, I'm Farneet Singh 👋</h1>
+---
 
-<p style="font-size: 14px; line-height: 1.6;">
-I am a curious ML Researcher and developer focused on creating impactful, intelligent solutions. I enjoy solving complex problems, sharing knowledge, and staying curious about everything tech.
-</p>
+| 🔍 **Research Areas**                       | 🚀 **Projects**                                 | 📚 **Certifications & Skills**                     | 🌐 **Competitive Programming**            |
+|--------------------------------------------|-------------------------------------------------|----------------------------------------------------|------------------------------------------|
+| - Multi-Modal Emotion Recognition          | - ThreadMind (comment analysis)                 | - Experienced in NLP                               | - Continuously honing problem-solving skills |
+| - Deblurring GANs                          | - Scribble (NLP-powered writing tool)           | - Fine-tuning models (BERT, BART, T5)              | - Focus on time management and creative thinking |
+| - AI-powered automation                    | - Leetcode Company-Wise Tracker                 | - Skilled in frameworks like React, Django, NextJS | |
 
-<p style="font-size: 14px; line-height: 1.6;">
-I am currently working on projects and researching fields such as Emotion Recognition, AI Automation, and Competitive Programming, and I'm always ready to push the boundaries of innovation.
-</p>
-
-<h3 style="font-size: 18px;">🔍 Research Areas</h3>
-<ul style="font-size: 14px; line-height: 1.6;">
-  <li>Multi-Modal Emotion Recognition</li>
-  <li>Deblurring GANs</li>
-  <li>AI-powered automation</li>
-</ul>
-
-<h3 style="font-size: 18px;">🚀 Projects</h3>
-<ul style="font-size: 14px; line-height: 1.6;">
-  <li>ThreadMind (comment analysis)</li>
-  <li>Scribble (NLP-powered writing tool)</li>
-  <li>Leetcode Company-Wise Tracker</li>
-</ul>
-
-<h3 style="font-size: 18px;">📚 Certifications & Skills</h3>
-<ul style="font-size: 14px; line-height: 1.6;">
-  <li>Experienced in NLP</li>
-  <li>Fine-tuning models (BERT, BART, T5)</li>
-  <li>Skilled in frameworks like React, Django, and NextJS</li>
-</ul>
-
-<h3 style="font-size: 18px;">🌐 Competitive Programming</h3>
-<ul style="font-size: 14px; line-height: 1.6;">
-  <li>Continuously honing problem-solving skills</li>
-  <li>Focus on time management and creative thinking</li>
-</ul>
 
 ---
 
