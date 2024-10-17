@@ -13,7 +13,7 @@
 ---
 <table>
   <tr>
-    <td style="width: 50%; vertical-align: top;">
+    <td style="width: 70%; vertical-align: top;">
       <img src="star-wars-gif-1.gif" alt="Curiosity and Innovation" width="100%"/>
     </td>
     <td style="width: 50%; vertical-align: top;">
