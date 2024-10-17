@@ -22,10 +22,8 @@
     I am currently working on projects and researching fields such as Emotion Recognition and AI automation, and I'm always ready to push the boundaries of innovation.
   </p>
 </div>
-
-
-
-
+<br>
+<br>
 <br>
 <br>
 
