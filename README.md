@@ -30,6 +30,7 @@ I am currently working on projects and researching fields such as Emotion Recogn
 
 ### GitHub Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=farneet24&label=Profile%20views&color=0e75b6&style=for-the-badge)
+<br>
 ![Farneet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farneet24&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farneet24&layout=compact&theme=radical&hide=jupyter%20notebook)
 
