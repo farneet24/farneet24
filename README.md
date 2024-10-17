@@ -16,7 +16,7 @@
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="LeetCode" width="30" height="30" style="filter: invert(100%);">
 </a>
 <a href="https://farneet-singh.webflow.io/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/webflow.svg" alt="Personal Website" width="30" height="30" style="filter: invert(100%);">
+  <img src="https://simpleicons.org/icons/webflow.svg" alt="Personal Website" width="30" height="30" style="filter: invert(100%);">
 </a>
 
 ---
