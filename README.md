@@ -17,8 +17,9 @@
   <img align="right" width="500" src="star-wars-gif-1.gif" alt="Profile Banner" style="margin-left: 20px; padding-bottom: 10px;">
   <br>
   <h4 align="left" style="padding-bottom: 10px;">Hi, I'm Farneet Singh 👋</h4>
-  <p align="justify" style="padding: 50px; line-height: 1.6;">
+  <p align="justify" style="padding: 50px;">
     I am a curious ML Researcher and developer focused on creating impactful, intelligent solutions. I enjoy solving complex problems, sharing knowledge, and staying curious about everything tech.
+    <br>
     I am currently working on projects and researching fields such as Emotion Recognition, AI Automation, and Competitive Programming, and I'm always ready to push the boundaries of innovation.
   </p>
 </div>
