@@ -11,7 +11,7 @@
 
 
 ---
-<iframe src="https://i.pinimg.com/originals/59/45/ff/5945ff665e2ecb8fab0d68343278b225.gif" alt="Curiosity and Innovation" width="100%"/>
+<img src="https://e1.pxfuel.com/desktop-wallpaper/202/791/desktop-wallpaper-2-anakin-skywalker-gif-luke-skywalker-vs-darth-vader.jpg" alt="Curiosity and Innovation" width="100%"/>
 
 Hi, my name is Farneet Singh. I am a curious ML Researcher and developer focused on creating impactful, intelligent solutions. I enjoy solving complex problems, sharing knowledge, and staying curious about everything tech. 
 
