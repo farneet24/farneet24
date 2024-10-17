@@ -19,6 +19,8 @@
 I am a curious ML Researcher and developer focused on creating impactful, intelligent solutions. I enjoy solving complex problems, sharing knowledge, and staying curious about everything tech.
 I am currently working on projects and researching fields such as Emotion Recognition, AI Automation, and Competitive Programming, and I'm always ready to push the boundaries of innovation.
 
+<br>
+<br>
 
 | 🔍 **Research Areas**                       | 🚀 **Projects**                                 | 📚 **Certifications & Skills**                     | 🌐 **Competitive Programming**            |
 |--------------------------------------------|-------------------------------------------------|----------------------------------------------------|------------------------------------------|
@@ -26,7 +28,8 @@ I am currently working on projects and researching fields such as Emotion Recogn
 | - Deblurring GANs                          | - Scribble (NLP-powered writing tool)           | - Fine-tuning models (BERT, BART, T5)              | - Focus on time management and creative thinking |
 | - AI-powered automation                    | - Leetcode Company-Wise Tracker                 | - Skilled in frameworks like React, Django, NextJS | |
 
-
+<br>
+<br>
 ---
 
 ## My Skills
