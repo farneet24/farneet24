@@ -12,9 +12,32 @@
 
 ---
 
-| ![Curiosity and Innovation](star-wars-gif-1.gif) | Hi, my name is Farneet Singh. I am a curious ML Researcher and developer focused on creating impactful, intelligent solutions. I enjoy solving complex problems, sharing knowledge, and staying curious about everything tech. <br><br> I am currently working on projects and researching fields such as Emotion Recognition, AI Automation, and Competitive Programming, and I’m always ready to push the boundaries of innovation. <ul><li>🔍 **Research Areas**: Multi-Modal Emotion Recognition, Deblurring GANs, AI-powered automation</li><li>🚀 **Projects**: ThreadMind (comment analysis), Scribble (NLP-powered writing tool), Leetcode Company-Wise Tracker</li><li>📚 **Certifications**: Experienced in NLP, Fine-tuning models (BERT, BART, T5), skilled in frameworks like React, Django, and NextJS</li><li>🌐 **Competitive Programmer**: Continuously honing problem-solving skills with time management and creative thinking</li></ul> |
-|:------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+<img align="right" width="400" src="star-wars-gif-1.gif" alt="Profile Banner"/>
 
+# Hi, I'm Farneet Singh 👋
+
+I am a curious ML Researcher and developer focused on creating impactful, intelligent solutions. I enjoy solving complex problems, sharing knowledge, and staying curious about everything tech.
+
+I am currently working on projects and researching fields such as Emotion Recognition, AI Automation, and Competitive Programming, and I'm always ready to push the boundaries of innovation.
+
+### 🔍 Research Areas
+- Multi-Modal Emotion Recognition
+- Deblurring GANs
+- AI-powered automation
+
+### 🚀 Projects
+- ThreadMind (comment analysis)
+- Scribble (NLP-powered writing tool)
+- Leetcode Company-Wise Tracker
+
+### 📚 Certifications & Skills
+- Experienced in NLP
+- Fine-tuning models (BERT, BART, T5)
+- Skilled in frameworks like React, Django, and NextJS
+
+### 🌐 Competitive Programming
+- Continuously honing problem-solving skills
+- Focus on time management and creative thinking
 
 ---
 
