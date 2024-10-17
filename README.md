@@ -1,14 +1,23 @@
 # ![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=FFCC00&center=true&vCenter=true&width=550&lines=The+Force+will+be+with+you%2C+always.)
 
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)](https://www.linkedin.com/in/farneet-singh-6b155b208/)
-[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/farneet24)
-[![Kaggle](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg)](https://www.kaggle.com/farneetsingh24)
-[![GeeksforGeeks](https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/geeksforgeeks.svg)](https://auth.geeksforgeeks.org/user/farneetsinghabhi/)
-[![LeetCode](https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg)](https://leetcode.com/farneetsinghabhi/)
-![Personal Website](https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/webflow.svg) [Farneet Singh's Website](https://farneet-singh.webflow.io/)
-[![Profile Views](https://komarev.com/ghpvc/?username=farneet24&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/farneet24)
-
-
+<a href="https://www.linkedin.com/in/farneet-singh-6b155b208/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" style="filter: invert(100%);">
+</a>
+<a href="https://github.com/farneet24" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" width="30" height="30" style="filter: invert(100%);">
+</a>
+<a href="https://www.kaggle.com/farneetsingh24" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="Kaggle" width="30" height="30" style="filter: invert(100%);">
+</a>
+<a href="https://auth.geeksforgeeks.org/user/farneetsinghabhi/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/geeksforgeeks.svg" alt="GeeksforGeeks" width="30" height="30" style="filter: invert(100%);">
+</a>
+<a href="https://leetcode.com/farneetsinghabhi/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="LeetCode" width="30" height="30" style="filter: invert(100%);">
+</a>
+<a href="https://farneet-singh.webflow.io/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/webflow.svg" alt="Personal Website" width="30" height="30" style="filter: invert(100%);">
+</a>
 
 ---
 
