@@ -14,7 +14,7 @@
 <br>
 
 <div style="overflow: hidden; padding: 20px;">
-  <img align="right" width="50%" src="star-wars-gif-1.gif" alt="Profile Banner" style="margin-left: 20px; margin-bottom: 10px;">
+  <img align="right" width="50%" height="40%" src="star-wars-gif-1.gif" alt="Profile Banner" style="margin-left: 20px; margin-bottom: 10px;">
   <br>
   <h4 style="margin-top: 0; margin-bottom: 15px;">Hi, I'm Farneet Singh 👋</h4>
   <p style="text-align: justify; margin-right: 20px; line-height: 1.6;">
