@@ -12,18 +12,12 @@
 
 ---
 
-<table>
-  <tr>
-    <td>
-      <img align="right" width="400" src="star-wars-gif-1.gif" alt="Profile Banner"/>
-    </td>
-    <td>
-      <h1>Hi, I'm Farneet Singh 👋</h1>
-      <p>I am a curious ML Researcher and developer focused on creating impactful, intelligent solutions. I enjoy solving complex problems, sharing knowledge, and staying curious about everything tech.</p>
-      <p>I am currently working on projects and researching fields such as Emotion Recognition, AI Automation, and Competitive Programming, and I'm always ready to push the boundaries of innovation.</p>
-    </td>
-  </tr>
-</table>
+<img align="right" width="500" src="star-wars-gif-1.gif" alt="Profile Banner"/>
+
+### Hi, I'm Farneet Singh 👋
+
+I am a curious ML Researcher and developer focused on creating impactful, intelligent solutions. I enjoy solving complex problems, sharing knowledge, and staying curious about everything tech.
+I am currently working on projects and researching fields such as Emotion Recognition, AI Automation, and Competitive Programming, and I'm always ready to push the boundaries of innovation.
 
 ---
 
