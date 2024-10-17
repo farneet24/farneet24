@@ -13,8 +13,8 @@
 ---
 <br>
 
-<div style="padding: 20px;">
-  <img align="right" width="500" src="star-wars-gif-1.gif" alt="Profile Banner" style="padding-left: 20px; padding-bottom: 10px;">
+<div>
+  <img align="right" width="500" src="star-wars-gif-1.gif" alt="Profile Banner" style="margin-left: 20px; padding-bottom: 10px;">
   <br>
   <h4 align="left" style="padding-bottom: 10px;">Hi, I'm Farneet Singh 👋</h4>
   <p align="justify" style="padding: 50px; line-height: 1.6;">
