@@ -13,15 +13,16 @@
 ---
 <br>
 
-<div>
-  <img align="right" width="400" src="star-wars-gif-1.gif" alt="Profile Banner" style="padding-left: 20px;">
+<div style="padding: 20px;">
+  <img align="right" width="400" src="star-wars-gif-1.gif" alt="Profile Banner" style="padding-left: 20px; padding-bottom: 10px;">
   <br>
-  <h4 align="left">Hi, I'm Farneet Singh 👋</h4>
-  <p align="left" style="padding: 10px; text-align: justify;">
+  <h4 align="left" style="padding-bottom: 10px;">Hi, I'm Farneet Singh 👋</h4>
+  <p align="justify" style="padding: 10px; line-height: 1.6;">
     I am a curious ML Researcher and developer focused on creating impactful, intelligent solutions. I enjoy solving complex problems, sharing knowledge, and staying curious about everything tech.
     I am currently working on projects and researching fields such as Emotion Recognition, AI Automation, and Competitive Programming, and I'm always ready to push the boundaries of innovation.
   </p>
 </div>
+
 
 
 <br>
