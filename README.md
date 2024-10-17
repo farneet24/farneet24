@@ -1,10 +1,15 @@
 # ![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=FFCC00&center=true&vCenter=true&width=550&lines=The+Force+will+be+with+you%2C+always.)
 
 
+<div align="center">
+
 [![](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/farneet-singh-6b155b208/)
 [![](https://skillicons.dev/icons?i=github)](https://github.com/farneet24)
 [![](https://skillicons.dev/icons?i=webflow)](https://farneet-singh.webflow.io/)
 [![](https://skillicons.dev/icons?i=gmail)](javascript:void(0) "farneetsingh_co21a3_72[at]dtu[dot]ac[dot]in")
+
+</div>
+
 
 ---
 
