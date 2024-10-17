@@ -11,6 +11,7 @@
 
 
 ---
+![Curiosity and Innovation](https://i.pinimg.com/originals/59/45/ff/5945ff665e2ecb8fab0d68343278b225.gif)
 
 Hi, my name is Farneet Singh. I am a curious ML Researcher and developer focused on creating impactful, intelligent solutions. I enjoy solving complex problems, sharing knowledge, and staying curious about everything tech. 
 
@@ -21,6 +22,7 @@ I am currently working on projects and researching fields such as Emotion Recogn
 - 📚 **Certifications**: Experienced in NLP, Fine-tuning models (BERT, BART, T5), skilled in frameworks like React, Django, and NextJS
 - 🌐 **Competitive Programmer**: Continuously honing problem-solving skills with time management and creative thinking
 
+GIF: https://i.pinimg.com/originals/59/45/ff/5945ff665e2ecb8fab0d68343278b225.gif
 ---
 
 ## My Skills
