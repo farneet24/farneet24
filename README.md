@@ -12,7 +12,7 @@
 
 ---
 
-<img align="right" width="300" src="star-wars-gif-1.gif" alt="Profile Banner"/>
+<img align="right" width="500" src="star-wars-gif-1.gif" alt="Profile Banner"/>
 
 <h1 style="font-size: 24px;">Hi, I'm Farneet Singh 👋</h1>
 
