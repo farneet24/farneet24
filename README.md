@@ -1,11 +1,14 @@
 # ![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=FFCC00&center=true&vCenter=true&width=550&lines=The+Force+will+be+with+you%2C+always.)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farneet-singh-6b155b208/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/farneet24)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/farneetsingh24)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/farneetsinghabhi/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/farneetsinghabhi/)
-![Profile Views](https://komarev.com/ghpvc/?username=farneet24&label=Profile%20views&color=0e75b6&style=for-the-badge)
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)](https://www.linkedin.com/in/farneet-singh-6b155b208/)
+[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/farneet24)
+[![Kaggle](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg)](https://www.kaggle.com/farneetsingh24)
+[![GeeksforGeeks](https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/geeksforgeeks.svg)](https://auth.geeksforgeeks.org/user/farneetsinghabhi/)
+[![LeetCode](https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg)](https://leetcode.com/farneetsinghabhi/)
+![Personal Website](https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/webflow.svg) [Farneet Singh's Website](https://farneet-singh.webflow.io/)
+[![Profile Views](https://komarev.com/ghpvc/?username=farneet24&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/farneet24)
+
+
 
 ---
 
