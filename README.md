@@ -12,7 +12,7 @@
 
 ---
 <br>
-<img align="right" width="500" src="star-wars-gif-1.gif" alt="Profile Banner"/>
+<img align="right" width="500" src="star-wars-gif-1.gif" alt="Profile Banner" style="padding:10px;"/>
 
 ### Hi, I'm Farneet Singh 👋
 
