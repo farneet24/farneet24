@@ -26,6 +26,8 @@
 <br>
 <br>
 
+---
+
 | 🔍 **Research Areas**                       | 🚀 **Projects**                                 | 📚 **Certifications & Skills**                     | 🌐 **Competitive Programming**            |
 |--------------------------------------------|-------------------------------------------------|----------------------------------------------------|------------------------------------------|
 | - Multi-Modal Emotion Recognition          | - ThreadMind (comment analysis)                 | - Experienced in NLP                               | - Continuously honing problem-solving skills |
