@@ -9,6 +9,18 @@
 
 </div>
 
+<div align="center" style="display: flex; flex-wrap: wrap;">
+  <img src="star-wars-gif-1.gif" alt="Profile Banner" width="49%" style="margin-right: 10px;" />
+  <div align="left" width="49%" style="width: 49%;">
+    <h4 style="margin-top: 0; margin-bottom: 15px;">Hi, I'm Farneet Singh 👋</h4>
+    <p style="text-align: justify; line-height: 1.6;">
+      I am a curious ML Researcher and developer focused on creating impactful, intelligent solutions. I enjoy solving complex problems and sharing knowledge.
+      <br><br>
+      I am currently working on projects and researching fields such as Emotion Recognition and AI automation, and I'm always ready to push the boundaries of innovation.
+    </p>
+  </div>
+</div>
+
 
 ---
 <br>
