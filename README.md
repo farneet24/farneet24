@@ -13,17 +13,29 @@
 ---
 <br>
 
-<div style="padding: 20px;">
-  <img align="right" width="50%" height="50%" src="star-wars-gif-1.gif" alt="Profile Banner" style="margin-left: 20px; margin-bottom: 10px;">
-  <div align="left">
+<div style="display: flex; flex-wrap: wrap; padding: 20px;">
+  <img width="50%" height="auto" src="star-wars-gif-1.gif" alt="Profile Banner" style="margin-left: 20px; margin-bottom: 10px; flex: 1;">
+  <div style="flex: 1; min-width: 300px; padding-right: 20px;">
     <h4 style="margin-top: 0; margin-bottom: 15px;">Hi, I'm Farneet Singh 👋</h4>
-    <p style="text-align: justify; margin-right: 20px; line-height: 1.6;">
+    <p style="text-align: justify; line-height: 1.6;">
       I am a curious ML Researcher and developer focused on creating impactful, intelligent solutions. I enjoy solving complex problems and sharing knowledge.
       <br><br>
       I am currently working on projects and researching fields such as Emotion Recognition and AI automation, and I'm always ready to push the boundaries of innovation.
     </p>
   </div>
 </div>
+
+<style>
+  @media only screen and (max-width: 768px) {
+    div[style*="display: flex;"] {
+      flex-direction: column;
+    }
+    img {
+      width: 100%;
+      margin-left: 0;
+    }
+  }
+</style>
 
 <br>
 <br>
