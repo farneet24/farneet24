@@ -28,11 +28,41 @@
 
 ---
 
-| 🔍 **Research Areas**                       | 🚀 **Projects**                                 | 📚 **Certifications & Skills**                     | 🌐 **Competitive Programming**            |
-|--------------------------------------------|-------------------------------------------------|----------------------------------------------------|------------------------------------------|
-| - Multi-Modal Emotion Recognition          | - ThreadMind (comment analysis)                 | - Experienced in NLP                               | - Continuously honing problem-solving skills |
-| - Deblurring GANs                          | - Scribble (NLP-powered writing tool)           | - Fine-tuning models (BERT, BART, T5)              | - Focus on time management and creative thinking |
-| - AI-powered automation                    | - Leetcode Company-Wise Tracker                 | - Skilled in frameworks like React, Django, NextJS | |
+## 🚀 My Work
+
+### 🌐 Profiles
+
+| Platform | Profile Links |
+|----------|---------------|
+| ![Leetcode](https://img.shields.io/badge/Leetcode-%231D4350.svg?style=for-the-badge&logo=leetcode&logoColor=yellow)  | [Leetcode Profile](https://leetcode.com/u/farneetsinghabhi/) |
+| ![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white) | [GeeksforGeeks Profile](https://www.geeksforgeeks.org/user/farneetsinghabhi/) |
+| ![Kaggle](https://img.shields.io/badge/Kaggle-%2306B6D4.svg?style=for-the-badge&logo=kaggle&logoColor=white)        | [Kaggle Profile](https://www.kaggle.com/farneetsingh24) |
+| ![Codechef](https://img.shields.io/badge/CodeChef-%230DB7ED.svg?style=for-the-badge&logo=codechef&logoColor=white) | [CodeChef Profile](https://www.codechef.com/users/farneetsingh) |
+
+---
+
+### 🛠️ Projects
+
+| Project Title | Description | Live Link | Repo Link |
+|---------------|-------------|-----------|-----------|
+| **Scribble** | NLP-powered writing tool using fine-tuned models for generating summaries and text enhancements. | [Live Site](https://scribble-farneet.vercel.app/) | [Repo](https://github.com/farneet24/Scribble) |
+| **ThreadMind** | Comment analysis tool for analyzing and categorizing social media comments. | [Live Site](https://thread-mind.vercel.app/) | [Repo](https://github.com/farneet24/ThreadMind) |
+| **Leetcode Company-Wise Tracker** | A platform to track coding progress across companies with problem links and progress tracking features. | [Live Site](https://company-wise-leetcode-farneet.netlify.app/) | [Repo](https://github.com/farneet24/Leetcode-Company-Wise-Questions-Website) |
+
+---
+
+### 📓 Notebooks
+
+| Notebook Title | Description | Link |
+|----------------|-------------|------|
+| **CK+ Pixel Facial Emotion Recognition** | Machine learning model for pixel-based facial emotion recognition on the CK+ dataset. | [View Notebook](https://www.kaggle.com/code/farneetsingh24/ck-pixel-facial-emotion-recognition) |
+| **CK+ Facial Emotion Recognition (96.46% Accuracy)** | Achieved 96.46% accuracy in facial emotion recognition using the CK+ dataset. | [View Notebook](https://www.kaggle.com/code/farneetsingh24/ck-facial-emotion-recognition-96-46-accuracy) |
+| **Fine-tuned BART for Dialogue Summary** | Fine-tuned BART model for summarizing dialogues. | [View Notebook](https://www.kaggle.com/code/farneetsingh24/fine-tuned-bart-for-dialogue-summary) |
+| **Fine-tuned RoBERTa** | Achieved 93.6% test accuracy in sentiment analysis using RoBERTa. | [View Notebook](https://www.kaggle.com/code/farneetsingh24/sentiment-analysis-93-6-test-accuracy) |
+| **Fine-tuned XLNet** | Cyberbullying classification with fine-tuned XLNet. | [View Notebook](https://www.kaggle.com/code/farneetsingh24/cyberbullying-classification-fine-tuning-xlnet) |
+| **Noise Removal with Deblurring GANs** | Face detection and noise removal using GANs in a pipeline. | [View Notebook](https://www.kaggle.com/code/farneetsingh24/noise-removal-gans-pipeline) |
+
+---
 
 ---
 
