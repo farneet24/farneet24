@@ -51,6 +51,8 @@
 
 ### 💼 Connect with Me!!!
 
+<br>
+
 <div>
   
 [![](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/farneet-singh-6b155b208/)
