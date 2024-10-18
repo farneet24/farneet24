@@ -55,12 +55,13 @@
 
 | **Project Title** | **Description** | **Link** |
 |------------------|-----------------|----------|
-| **Facial Emotion Recognition with CK+ (Pixel Matrices)** | Developed and evaluated multiple machine learning models on the CK+ dataset for facial emotion recognition using pixel matrix representations. | [![Kaggle](kaggle-logo-new.png){:height="30px" width="30px"}](https://www.kaggle.com/code/farneetsingh24/ck-pixel-facial-emotion-recognition) |
-| **Facial Emotion Recognition with CK+ (Image-Based)** | Achieved 96.46% accuracy in facial emotion recognition using a custom-developed Convolutional Neural Network (CNN) model. | [![Kaggle](kaggle-logo-new.png){:height="30px" width="30px"}](https://www.kaggle.com/code/farneetsingh24/ck-facial-emotion-recognition-96-46-accuracy) |
-| **Dialogue Summarization using BART** | Fine-tuned BART on SAMSUM and DialogSUM datasets to generate concise summaries of chat conversations. | [![Kaggle](kaggle-logo-new.png){:height="30px" width="30px"}](https://www.kaggle.com/code/farneetsingh24/fine-tuned-bart-for-dialogue-summary) |
-| **Sentiment Analysis with RoBERTa** | Fine-tuned RoBERTa on Twitter and Reddit comments, achieving 93% test accuracy in sentiment classification. | [![Kaggle](kaggle-logo-new.png){:height="30px" width="30px"}](https://www.kaggle.com/code/farneetsingh24/sentiment-analysis-93-6-test-accuracy) |
-| **Cyberbullying Detection with XLNet** | Fine-tuned XLNet on 100k comments for cyberbullying detection, achieving 99% accuracy and precision. | [![Kaggle](kaggle-logo-new.png){:height="30px" width="30px"}](https://www.kaggle.com/code/farneetsingh24/cyberbullying-classification-fine-tuning-xlnet) |
-| **Noise Removal with Deblurring GANs** | Designed a pipeline for face detection and noise removal using advanced GAN-based deblurring techniques. | [![Kaggle](kaggle-logo-new.png){:height="30px" width="30px"}](https://www.kaggle.com/code/farneetsingh24/noise-removal-gans-pipeline) |
+| **Facial Emotion Recognition with CK+ (Pixel Matrices)** | Developed and evaluated multiple machine learning models on the CK+ dataset for facial emotion recognition using pixel matrix representations. | [<img src="kaggle-logo-new.png" alt="Kaggle" width="30"/>](https://www.kaggle.com/code/farneetsingh24/ck-pixel-facial-emotion-recognition) |
+| **Facial Emotion Recognition with CK+ (Image-Based)** | Achieved 96.46% accuracy in facial emotion recognition using a custom-developed Convolutional Neural Network (CNN) model. | [<img src="kaggle-logo-new.png" alt="Kaggle" width="30"/>](https://www.kaggle.com/code/farneetsingh24/ck-facial-emotion-recognition-96-46-accuracy) |
+| **Dialogue Summarization using BART** | Fine-tuned BART on SAMSUM and DialogSUM datasets to generate concise summaries of chat conversations. | [<img src="kaggle-logo-new.png" alt="Kaggle" width="30"/>](https://www.kaggle.com/code/farneetsingh24/fine-tuned-bart-for-dialogue-summary) |
+| **Sentiment Analysis with RoBERTa** | Fine-tuned RoBERTa on Twitter and Reddit comments, achieving 93% test accuracy in sentiment classification. | [<img src="kaggle-logo-new.png" alt="Kaggle" width="30"/>](https://www.kaggle.com/code/farneetsingh24/sentiment-analysis-93-6-test-accuracy) |
+| **Cyberbullying Detection with XLNet** | Fine-tuned XLNet on 100k comments for cyberbullying detection, achieving 99% accuracy and precision. | [<img src="kaggle-logo-new.png" alt="Kaggle" width="30"/>](https://www.kaggle.com/code/farneetsingh24/cyberbullying-classification-fine-tuning-xlnet) |
+| **Noise Removal with Deblurring GANs** | Designed a pipeline for face detection and noise removal using advanced GAN-based deblurring techniques. | [<img src="kaggle-logo-new.png" alt="Kaggle" width="30"/>](https://www.kaggle.com/code/farneetsingh24/noise-removal-gans-pipeline) |
+
 
 
 
