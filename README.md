@@ -1,7 +1,10 @@
 # ![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=FFCC00&center=true&vCenter=true&width=550&lines=The+Force+will+be+with+you%2C+always.)
 
-
 <div align="center">
+
+### Connect with Me
+
+Find me here:
 
 [![](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/farneet-singh-6b155b208/)
 [![](https://skillicons.dev/icons?i=github)](https://github.com/farneet24)
@@ -9,7 +12,6 @@
 
 </div>
 
----
 <br>
 
 <div style="display: flex; flex-wrap: wrap; padding: 20px;">
