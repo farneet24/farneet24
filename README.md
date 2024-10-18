@@ -48,6 +48,7 @@
 | **Cyberbullying Detection** | Fine-tuned XLNet on 100k comments for cyberbullying detection, achieving 99% accuracy and precision. | [<img src="kaggle-logo-new.png" alt="Kaggle" width="30"/>](https://www.kaggle.com/code/farneetsingh24/cyberbullying-classification-fine-tuning-xlnet) |
 | **Noise Removal with Deblurring GANs** | Designed a pipeline for face detection and noise removal using advanced GAN-based deblurring techniques. | [<img src="kaggle-logo-new.png" alt="Kaggle" width="30"/>](https://www.kaggle.com/code/farneetsingh24/noise-removal-gans-pipeline) |
 
+<br>
 
 ### 💼 Connect with Me!!!
 
@@ -60,6 +61,8 @@
 [![](https://skillicons.dev/icons?i=webflow)](https://farneet-singh.webflow.io/)
 
 </div>
+
+<br>
 
 ---
 
