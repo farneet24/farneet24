@@ -4,9 +4,9 @@
   <img width="100%" height="auto" src="star-wars-gif-1.gif" alt="Profile Banner" style="margin-left: 20px; margin-bottom: 10px; flex: 1;">
   <div style="flex: 1; min-width: 300px; padding-right: 20px;">
       <h4>Hi, I'm Farneet Singh, a.k.a Abhi 👋.</h4>
-      <h5>I'm curious about machine learning and robotics, and I've worked on projects and research in areas like AI automation, multi-modal systems, and recommendation models. I also know my way around web development with React and Django, which helps me build platforms to showcase my work.</h5>
+      <p>I'm curious about machine learning and robotics, and I've worked on projects and research in areas like AI automation, multi-modal systems, and recommendation models. I also know my way around web development with React and Django, which helps me build platforms to showcase my work.</p>
       <br>
-      <h5>Feel free to reach out if you want to collaborate on a project or research. And if you're into astronomy, we can have some fun chats about the mysteries of the universe!</h5>
+      <p>Feel free to reach out if you want to collaborate on a project or research. And if you're into astronomy, we can have some fun chats about the mysteries of the universe!</p>
   </div>
 </div>
 
