@@ -47,20 +47,21 @@
 |---------------|-------------|-----------|-----------|
 | **Scribble** | NLP-powered writing tool using fine-tuned models for generating summaries and text enhancements. | [Live Site](https://scribble-farneet.vercel.app/) | [Repo](https://github.com/farneet24/Scribble) |
 | **ThreadMind** | Comment analysis tool for analyzing and categorizing social media comments. | [Live Site](https://thread-mind.vercel.app/) | [Repo](https://github.com/farneet24/ThreadMind) |
-| **Leetcode Company-Wise Tracker** | A platform to track coding progress across companies with problem links and progress tracking features. | [Live Site](https://company-wise-leetcode-farneet.netlify.app/) | [Repo](https://github.com/farneet24/Leetcode-Company-Wise-Questions-Website) |
+| **Leetcode Company-Wise Tracker** | A platform to track coding progress across companies with problem links and progress-tracking features. | [Live Site](https://company-wise-leetcode-farneet.netlify.app/) | [Repo](https://github.com/farneet24/Leetcode-Company-Wise-Questions-Website) |
 
 ---
 
 ### 📓 Notebooks
 
-| Notebook Title | Description | Link |
-|----------------|-------------|------|
-| **CK+ Pixel Facial Emotion Recognition** | Machine learning model for pixel-based facial emotion recognition on the CK+ dataset. | [View Notebook](https://www.kaggle.com/code/farneetsingh24/ck-pixel-facial-emotion-recognition) |
-| **CK+ Facial Emotion Recognition (96.46% Accuracy)** | Achieved 96.46% accuracy in facial emotion recognition using the CK+ dataset. | [View Notebook](https://www.kaggle.com/code/farneetsingh24/ck-facial-emotion-recognition-96-46-accuracy) |
-| **Fine-tuned BART for Dialogue Summary** | Fine-tuned BART model for summarizing dialogues. | [View Notebook](https://www.kaggle.com/code/farneetsingh24/fine-tuned-bart-for-dialogue-summary) |
-| **Fine-tuned RoBERTa** | Achieved 93.6% test accuracy in sentiment analysis using RoBERTa. | [View Notebook](https://www.kaggle.com/code/farneetsingh24/sentiment-analysis-93-6-test-accuracy) |
-| **Fine-tuned XLNet** | Cyberbullying classification with fine-tuned XLNet. | [View Notebook](https://www.kaggle.com/code/farneetsingh24/cyberbullying-classification-fine-tuning-xlnet) |
-| **Noise Removal with Deblurring GANs** | Face detection and noise removal using GANs in a pipeline. | [View Notebook](https://www.kaggle.com/code/farneetsingh24/noise-removal-gans-pipeline) |
+| **Project Title** | **Description** | **Link** |
+|------------------|-----------------|----------|
+| **Facial Emotion Recognition with CK+ (Pixel Matrices)** | Developed and evaluated multiple machine learning models on the CK+ dataset for facial emotion recognition using pixel matrix representations. | [View Notebook](https://www.kaggle.com/code/farneetsingh24/ck-pixel-facial-emotion-recognition) |
+| **Facial Emotion Recognition with CK+ (Image-Based)** | Achieved 96.46% accuracy in facial emotion recognition using a custom-developed Convolutional Neural Network (CNN) model. | [View Notebook](https://www.kaggle.com/code/farneetsingh24/ck-facial-emotion-recognition-96-46-accuracy) |
+| **Dialogue Summarization using BART** | Fine-tuned BART on SAMSUM and DialogSUM datasets to generate concise summaries of chat conversations. | [View Notebook](https://www.kaggle.com/code/farneetsingh24/fine-tuned-bart-for-dialogue-summary) |
+| **Sentiment Analysis with RoBERTa** | Fine-tuned RoBERTa on Twitter and Reddit comments, achieving 93% test accuracy in sentiment classification. | [View Notebook](https://www.kaggle.com/code/farneetsingh24/sentiment-analysis-93-6-test-accuracy) |
+| **Cyberbullying Detection with XLNet** | Fine-tuned XLNet on 100k comments for cyberbullying detection, achieving 99% accuracy and precision. | [View Notebook](https://www.kaggle.com/code/farneetsingh24/cyberbullying-classification-fine-tuning-xlnet) |
+| **Noise Removal with Deblurring GANs** | Designed a pipeline for face detection and noise removal using advanced GAN-based deblurring techniques. | [View Notebook](https://www.kaggle.com/code/farneetsingh24/noise-removal-gans-pipeline) |
+
 
 ---
 
