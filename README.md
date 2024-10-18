@@ -37,8 +37,7 @@
 | ![Kaggle](https://img.shields.io/badge/Kaggle-%2306B6D4.svg?style=for-the-badge&logo=kaggle&logoColor=black)        | [<img src="kaggle-logo-new.png" alt="Kaggle" width="30"/>](https://www.kaggle.com/farneetsingh24) |
 | ![Codechef](https://img.shields.io/badge/CodeChef-%230DB7ED.svg?style=for-the-badge&logo=codechef&logoColor=black) | [<img src="https://img.icons8.com/bubbles/512/codechef.png" alt="Codechef" width="30"/>](https://www.codechef.com/users/farneetsingh) |
 
----
-
+<br>
 ### 🛠️ Projects
 
 | Project Title | Description | Live Link | Repo Link |
@@ -47,8 +46,7 @@
 | **ThreadMind** | Comment analysis tool for analyzing and categorizing social media comments. | [![](https://skillicons.dev/icons?i=react)](https://thread-mind.vercel.app/) | [![](https://skillicons.dev/icons?i=github)](https://github.com/farneet24/ThreadMind) |
 | **Leetcode Company-Wise Tracker** | A platform to track coding progress across companies with problem links and progress-tracking features. | [![](https://skillicons.dev/icons?i=react)](https://company-wise-leetcode-farneet.netlify.app/) | [![](https://skillicons.dev/icons?i=github)](https://github.com/farneet24/Leetcode-Company-Wise-Questions-Website) |
 
----
-
+<br>
 ### 📓 Notebooks
 
 | **Project Title** | **Description** | **Link** |
