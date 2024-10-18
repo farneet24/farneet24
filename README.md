@@ -4,8 +4,6 @@
 
 ### Connect with Me
 
-Find me here:
-
 [![](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/farneet-singh-6b155b208/)
 [![](https://skillicons.dev/icons?i=github)](https://github.com/farneet24)
 [![](https://skillicons.dev/icons?i=webflow)](https://farneet-singh.webflow.io/)
