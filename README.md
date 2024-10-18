@@ -46,8 +46,8 @@
 | Project Title | Description | Live Link | Repo Link |
 |---------------|-------------|-----------|-----------|
 | **Scribble** | NLP-powered writing tool using fine-tuned models for generating summaries and text enhancements. | [Live Site](https://scribble-farneet.vercel.app/) | [<img src="github-logo.webp" alt="GitHub" width="30"/>](https://github.com/farneet24/Scribble) |
-| **ThreadMind** | Comment analysis tool for analyzing and categorizing social media comments. | [<img src="github-logo.webp" alt="GitHub" width="30"/>](https://thread-mind.vercel.app/) | [Repo](https://github.com/farneet24/ThreadMind) |
-| **Leetcode Company-Wise Tracker** | A platform to track coding progress across companies with problem links and progress-tracking features. | [<img src="github-logo.webp" alt="GitHub" width="30"/>](https://company-wise-leetcode-farneet.netlify.app/) | [Repo](https://github.com/farneet24/Leetcode-Company-Wise-Questions-Website) |
+| **ThreadMind** | Comment analysis tool for analyzing and categorizing social media comments. | [Live Site](https://thread-mind.vercel.app/) | [<img src="github-logo.webp" alt="GitHub" width="30"/>](https://github.com/farneet24/ThreadMind) |
+| **Leetcode Company-Wise Tracker** | A platform to track coding progress across companies with problem links and progress-tracking features. | [Live Site](https://company-wise-leetcode-farneet.netlify.app/) | [<img src="github-logo.webp" alt="GitHub" width="30"/>](https://github.com/farneet24/Leetcode-Company-Wise-Questions-Website) |
 
 ---
 
