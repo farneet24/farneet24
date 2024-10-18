@@ -1,17 +1,5 @@
 # ![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=FFCC00&center=true&vCenter=true&width=550&lines=The+Force+will+be+with+you%2C+always.)
 
-### Connect with Me!!!
-
-<div align="center">
-  
-[![](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/farneet-singh-6b155b208/)
-[![](https://skillicons.dev/icons?i=github)](https://github.com/farneet24)
-[![](https://skillicons.dev/icons?i=webflow)](https://farneet-singh.webflow.io/)
-
-</div>
-
-<br>
-
 <div style="display: flex; flex-wrap: wrap; padding: 20px;">
   <img width="100%" height="auto" src="star-wars-gif-1.gif" alt="Profile Banner" style="margin-left: 20px; margin-bottom: 10px; flex: 1;">
   <div style="flex: 1; min-width: 300px; padding-right: 20px;">
@@ -59,6 +47,17 @@
 | **Sentiment Analysis** | Fine-tuned RoBERTa on Twitter and Reddit comments, achieving 93% test accuracy in sentiment classification. | [<img src="kaggle-logo-new.png" alt="Kaggle" width="30"/>](https://www.kaggle.com/code/farneetsingh24/sentiment-analysis-93-6-test-accuracy) |
 | **Cyberbullying Detection** | Fine-tuned XLNet on 100k comments for cyberbullying detection, achieving 99% accuracy and precision. | [<img src="kaggle-logo-new.png" alt="Kaggle" width="30"/>](https://www.kaggle.com/code/farneetsingh24/cyberbullying-classification-fine-tuning-xlnet) |
 | **Noise Removal with Deblurring GANs** | Designed a pipeline for face detection and noise removal using advanced GAN-based deblurring techniques. | [<img src="kaggle-logo-new.png" alt="Kaggle" width="30"/>](https://www.kaggle.com/code/farneetsingh24/noise-removal-gans-pipeline) |
+
+
+### 💼 Connect with Me!!!
+
+<div>
+  
+[![](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/farneet-singh-6b155b208/)
+[![](https://skillicons.dev/icons?i=github)](https://github.com/farneet24)
+[![](https://skillicons.dev/icons?i=webflow)](https://farneet-singh.webflow.io/)
+
+</div>
 
 ---
 
