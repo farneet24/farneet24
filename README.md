@@ -38,6 +38,7 @@
 | ![Codechef](https://img.shields.io/badge/CodeChef-%230DB7ED.svg?style=for-the-badge&logo=codechef&logoColor=black) | [<img src="https://img.icons8.com/bubbles/512/codechef.png" alt="Codechef" width="30"/>](https://www.codechef.com/users/farneetsingh) |
 
 <br>
+
 ### 🛠️ Projects
 
 | Project Title | Description | Live Link | Repo Link |
@@ -47,6 +48,7 @@
 | **Leetcode Company-Wise Tracker** | A platform to track coding progress across companies with problem links and progress-tracking features. | [![](https://skillicons.dev/icons?i=react)](https://company-wise-leetcode-farneet.netlify.app/) | [![](https://skillicons.dev/icons?i=github)](https://github.com/farneet24/Leetcode-Company-Wise-Questions-Website) |
 
 <br>
+
 ### 📓 Notebooks
 
 | **Project Title** | **Description** | **Link** |
@@ -57,9 +59,6 @@
 | **Sentiment Analysis** | Fine-tuned RoBERTa on Twitter and Reddit comments, achieving 93% test accuracy in sentiment classification. | [<img src="kaggle-logo-new.png" alt="Kaggle" width="30"/>](https://www.kaggle.com/code/farneetsingh24/sentiment-analysis-93-6-test-accuracy) |
 | **Cyberbullying Detection** | Fine-tuned XLNet on 100k comments for cyberbullying detection, achieving 99% accuracy and precision. | [<img src="kaggle-logo-new.png" alt="Kaggle" width="30"/>](https://www.kaggle.com/code/farneetsingh24/cyberbullying-classification-fine-tuning-xlnet) |
 | **Noise Removal with Deblurring GANs** | Designed a pipeline for face detection and noise removal using advanced GAN-based deblurring techniques. | [<img src="kaggle-logo-new.png" alt="Kaggle" width="30"/>](https://www.kaggle.com/code/farneetsingh24/noise-removal-gans-pipeline) |
-
-
----
 
 ---
 
