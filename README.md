@@ -9,6 +9,9 @@
 
 </div>
 
+---
+<br>
+
 <div style="display: flex; flex-wrap: wrap; padding: 20px;">
   <img width="100%" height="auto" src="star-wars-gif-1.gif" alt="Profile Banner" style="margin-left: 20px; margin-bottom: 10px; flex: 1;">
   <div style="flex: 1; min-width: 300px; padding-right: 20px;">
@@ -20,27 +23,6 @@
     </p>
   </div>
 </div>
-
-
----
-<br>
-
-<div style="display: flex; flex-wrap: wrap; padding: 20px;">
-  <img src="star-wars-gif-1.gif" alt="Profile Banner" style="width: 50%; margin-left: 20px; margin-bottom: 10px;">
-  <div style="width: 50%; padding-right: 20px;">
-    <h4 style="margin-top: 0; margin-bottom: 15px;">Hi, I'm Farneet Singh 👋</h4>
-    <p style="text-align: justify; line-height: 1.6;">
-      I am a curious ML Researcher and developer focused on creating impactful, intelligent solutions. I enjoy solving complex problems and sharing knowledge.
-      <br><br>
-      I am currently working on projects and researching fields such as Emotion Recognition and AI automation, and I'm always ready to push the boundaries of innovation.
-    </p>
-  </div>
-</div>
-
-<!-- CSS -->
-<img src="star-wars-gif-1.gif" alt="Profile Banner" width="100%" height="auto" style="margin-bottom: 10px;">
-<br><br>
-
 
 
 <br>
