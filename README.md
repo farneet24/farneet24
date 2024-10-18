@@ -3,12 +3,8 @@
 <div style="display: flex; flex-wrap: wrap; padding: 20px;">
   <img width="100%" height="auto" src="star-wars-gif-1.gif" alt="Profile Banner" style="margin-left: 20px; margin-bottom: 10px; flex: 1;">
   <div style="flex: 1; min-width: 300px; padding-right: 20px;">
-    <h4 style="margin-top: 0; margin-bottom: 15px;">Hi, I'm Farneet Singh 👋</h4>
-    <p style="text-align: justify; line-height: 1.6;">
-      I am a curious ML Researcher and developer focused on creating impactful, intelligent solutions. I enjoy solving complex problems and sharing knowledge.
-      <br><br>
-      I am currently working on projects and researching fields such as Emotion Recognition and AI automation, and I'm always ready to push the boundaries of innovation.
-    </p>
+      Hi, I'm Farneet Singh, also known as Abhi. I'm curious about machine learning and robotics, and I've worked on projects and research in areas like AI automation, multi-modal systems, and recommendation models. I also know my way around web development with React and Django, which helps me build platforms to showcase my work.
+      Feel free to reach out if you're interested in collaborating on a project or research. And if you're into astronomy, we can definitely have some fun chats about the mysteries of the universe!
   </div>
 </div>
 
