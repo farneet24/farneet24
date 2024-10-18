@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Connect with Me!!!!!!
+### Connect with Me!!!
 
 [![](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/farneet-singh-6b155b208/)
 [![](https://skillicons.dev/icons?i=github)](https://github.com/farneet24)
