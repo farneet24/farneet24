@@ -37,7 +37,6 @@
 
 | Project Title | Description | Live Link | Repo Link |
 |---------------|-------------|-----------|-----------|
-| **Scribble** | NLP-powered writing tool using fine-tuned models for generating summaries and text enhancements. | [![](https://skillicons.dev/icons?i=react)](https://scribble-farneet.vercel.app/) | [![](https://skillicons.dev/icons?i=github)](https://github.com/farneet24/Scribble) |
 | **Leetcode Company-Wise Tracker** | A platform to track coding progress across companies with problem links and progress-tracking features. | [![](https://skillicons.dev/icons?i=react)](https://company-wise-leetcode-farneet.netlify.app/) | [![](https://skillicons.dev/icons?i=github)](https://github.com/farneet24/Leetcode-Company-Wise-Questions-Website) |
 
 <br>
