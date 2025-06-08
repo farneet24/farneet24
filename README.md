@@ -3,20 +3,13 @@
 <div style="display: flex; flex-wrap: wrap; padding: 20px;">
   <img width="100%" height="auto" src="star-wars-gif-1.gif" alt="Profile Banner" style="margin-left: 20px; margin-bottom: 10px; flex: 1;">
   <div style="flex: 1; min-width: 300px; padding-right: 20px;">
-      <h4>Hi, I'm Farneet Singh, a.k.a Abhi 👋.</h4>
-      <p>I'm a curious person interested in machine learning and robotics. I’ve worked on various projects and research in areas like:</p>
-      <ul style="padding-left: 20px;">
-        <li>AI automation</li>
-        <li>Multi-modal systems</li>
-        <li>Recommendation models</li>
-      </ul>
-      <p>I’m also skilled in web development with <strong>React</strong> and <strong>Django</strong>, which helps me build platforms to showcase my work.</p>
+      <h4>Hey, I'm Farneet Singh </h4>
+      <p>I enjoy the mathematical side of machine learning, so I spend most of my time building models and systems that (hopefully) work well. Since raw Jupyter notebooks aren’t exactly the most exciting thing to look at (even for me), I picked up some web development to let people see the models in action.</p>
+      <p>I've built a few project(s) — you're welcome to check them out. And if you're curious, some of my experiments are available in the notebooks below as well.</p>
       <br>
-      <p>Feel free to reach out if you want to collaborate on a project or research. And if you're into astronomy, we can have fun chats about the mysteries of the universe!</p>
+      <p>In my free time, I enjoy exploring astronomy and astrophysics — it's a nice change of scale. If you have an interesting project or research idea, feel free to reach out.</p>
   </div>
 </div>
-
-
 
 <br>
 
@@ -24,7 +17,7 @@
 
 ### 🌐 Profiles
 
-| Platform | Profile Links |
+| Platform | Profile |
 |----------|---------------|
 | ![Leetcode](https://img.shields.io/badge/Leetcode-%231D4350.svg?style=for-the-badge&logo=leetcode&logoColor=yellow)  | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="LeetCode" width="30"/>](https://leetcode.com/u/farneetsinghabhi/) |
 | ![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white) | [<img src="https://cdn-1.webcatalog.io/catalog/geeksforgeeks/geeksforgeeks-icon-filled-256.png?v=1714774463254" alt="GeeksForGeeks" width="30"/>](https://www.geeksforgeeks.org/user/farneetsinghabhi/) |
@@ -35,7 +28,7 @@
 
 ### 🛠️ Projects
 
-| Project Title | Description | Live Link | Repo Link |
+| Project Title | Description | Live | Repo |
 |---------------|-------------|-----------|-----------|
 | **Leetcode Company-Wise Tracker** | A platform to track coding progress across companies with problem links and progress-tracking features. | [![](https://skillicons.dev/icons?i=react)](https://company-wise-leetcode-farneet.netlify.app/) | [![](https://skillicons.dev/icons?i=github)](https://github.com/farneet24/Leetcode-Company-Wise-Questions-Website) |
 
@@ -45,12 +38,12 @@
 
 | **Project Title** | **Description** | **Link** |
 |------------------|-----------------|----------|
-| **Facial Emotion Recognition with CK+ (Pixel Matrices)** | Developed and evaluated multiple machine learning models on the CK+ dataset for facial emotion recognition using pixel matrix representations. | [<img src="kaggle-logo-new.png" alt="Kaggle" width="30"/>](https://www.kaggle.com/code/farneetsingh24/ck-pixel-facial-emotion-recognition) |
-| **Facial Emotion Recognition with CK+ (Image-Based)** | Achieved 96.46% accuracy in facial emotion recognition using a custom-developed Convolutional Neural Network (CNN) model. | [<img src="kaggle-logo-new.png" alt="Kaggle" width="30"/>](https://www.kaggle.com/code/farneetsingh24/ck-facial-emotion-recognition-96-46-accuracy) |
-| **Dialogue Summarization** | Fine-tuned BART on SAMSUM and DialogSUM datasets to generate concise summaries of chat conversations. | [<img src="kaggle-logo-new.png" alt="Kaggle" width="30"/>](https://www.kaggle.com/code/farneetsingh24/fine-tuned-bart-for-dialogue-summary) |
-| **Sentiment Analysis** | Fine-tuned RoBERTa on Twitter and Reddit comments, achieving 93% test accuracy in sentiment classification. | [<img src="kaggle-logo-new.png" alt="Kaggle" width="30"/>](https://www.kaggle.com/code/farneetsingh24/sentiment-analysis-93-6-test-accuracy) |
-| **Cyberbullying Detection** | Fine-tuned XLNet on 100k comments for cyberbullying detection, achieving 99% accuracy and precision. | [<img src="kaggle-logo-new.png" alt="Kaggle" width="30"/>](https://www.kaggle.com/code/farneetsingh24/cyberbullying-classification-fine-tuning-xlnet) |
-| **Noise Removal with Deblurring GANs** | Designed a pipeline for face detection and noise removal using advanced GAN-based deblurring techniques. | [<img src="kaggle-logo-new.png" alt="Kaggle" width="30"/>](https://www.kaggle.com/code/farneetsingh24/noise-removal-gans-pipeline) |
+| **Facial Emotion Recognition with CK+ (Pixel Matrices)** | 88% accuracy on CK+ dataset using pixel matrix representations. | [<img src="kaggle-logo-new.png" alt="Kaggle" width="30"/>](https://www.kaggle.com/code/farneetsingh24/ck-pixel-facial-emotion-recognition) |
+| **Facial Emotion Recognition with CK+ (Image-Based)** | 96.4% accuracy on CK+ using custom CNN on facial images. | [<img src="kaggle-logo-new.png" alt="Kaggle" width="30"/>](https://www.kaggle.com/code/farneetsingh24/ck-facial-emotion-recognition-96-46-accuracy) |
+| **Dialogue Summarization** | Summarized SAMSUM and DialogSUM conversations with BART. | [<img src="kaggle-logo-new.png" alt="Kaggle" width="30"/>](https://www.kaggle.com/code/farneetsingh24/fine-tuned-bart-for-dialogue-summary) |
+| **Sentiment Analysis** | 93% test accuracy on Twitter and Reddit comments using RoBERTa. | [<img src="kaggle-logo-new.png" alt="Kaggle" width="30"/>](https://www.kaggle.com/code/farneetsingh24/sentiment-analysis-93-6-test-accuracy) |
+| **Cyberbullying Detection** | 99% accuracy on 100k comment dataset using XLNet. | [<img src="kaggle-logo-new.png" alt="Kaggle" width="30"/>](https://www.kaggle.com/code/farneetsingh24/cyberbullying-classification-fine-tuning-xlnet) |
+| **Noise Removal with Deblurring GANs** | GAN-based deblurring pipeline for face restoration from noisy images. | [<img src="kaggle-logo-new.png" alt="Kaggle" width="30"/>](https://www.kaggle.com/code/farneetsingh24/noise-removal-gans-pipeline) |
 
 <br>
 
