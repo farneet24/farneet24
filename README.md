@@ -5,17 +5,14 @@
   <div style="flex: 1; min-width: 300px; padding-right: 20px;">
       <h4>Hey, I'm Farneet Singh </h4>
       <p>I enjoy the mathematical side of machine learning, so I spend most of my time building models and systems that (hopefully) work well. Since raw Jupyter notebooks aren’t exactly the most exciting thing to look at (even for me), I picked up some web development to let people see the models in action.</p>
-      <p>I've built a few project(s) — you're welcome to check them out. And if you're curious, some of my experiments are available in the notebooks below as well.</p>
-      <br>
-      <p>In my free time, I enjoy exploring astronomy and astrophysics — it's a nice change of scale. If you have an interesting project or research idea, feel free to reach out.</p>
+      <p>I've built a few projects  — you're welcome to check them out. And if you're curious, some of my experiments are available in the notebooks below as well.</p>
+      <p>In my free time, I enjoy astronomy and astrophysics — always a nice change of scale. If you have an interesting project or research idea, feel free to reach out.</p>
   </div>
 </div>
 
 <br>
 
-## 🚀 My Work
-
-### 🌐 Profiles
+## Profiles
 
 | Platform | Profile |
 |----------|---------------|
@@ -26,7 +23,7 @@
 
 <br>
 
-### 🛠️ Projects
+## 🛠 Projects
 
 | Project Title | Description | Live | Repo |
 |---------------|-------------|-----------|-----------|
@@ -34,7 +31,7 @@
 
 <br>
 
-### 📓 Notebooks
+## Notebooks
 
 | **Project Title** | **Description** | **Link** |
 |------------------|-----------------|----------|
@@ -47,7 +44,7 @@
 
 <br>
 
-### 💼 Connect with Me!!!
+## Connect with Me!!!
 
 <br>
 
@@ -70,7 +67,7 @@
 
 ---
 
-### GitHub Stats
+## GitHub Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=farneet24&label=Profile%20views&color=0e75b6&style=for-the-badge)
 <br>
 ![Farneet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farneet24&show_icons=true&theme=radical)
