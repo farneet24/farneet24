@@ -19,7 +19,7 @@
 | ![Leetcode](https://img.shields.io/badge/Leetcode-%230f1d26.svg?style=for-the-badge&logo=leetcode&logoColor=yellow)  | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="LeetCode" width="30"/>](https://leetcode.com/u/farneet7/) |
 | ![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%23009443.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white) | [<img src="https://cdn-1.webcatalog.io/catalog/geeksforgeeks/geeksforgeeks-icon-filled-256.png?v=1714774463254" alt="GeeksForGeeks" width="30"/>](https://www.geeksforgeeks.org/user/farneetsinghabhi/) |
 | ![Kaggle](https://img.shields.io/badge/Kaggle-%23022942.svg?style=for-the-badge&logo=kaggle&logoColor=white)   | [<img src="kaggle-logo-new.png" alt="Kaggle" width="30"/>](https://www.kaggle.com/farneetsingh24) |
-| ![Codechef](https://img.shields.io/badge/CodeChef-%231c2b34.svg?style=for-the-badge&logo=codechef&logoColor=white) | [<img src="https://img.icons8.com/bubbles/512/codechef.png" alt="Codechef" width="30"/>](https://www.codechef.com/users/farneetsingh) |
+| ![Codechef](https://img.shields.io/badge/CodeChef-%231c2b34.svg?style=for-the-badge&logo=codechef&logoColor=white) | [<img src="https://www.codechef.com/favicon.ico" alt="Codechef" width="30"/>](https://www.codechef.com/users/farneetsingh) |
 | ![Codeforces](https://img.shields.io/badge/Codeforces-%231e2f44?style=for-the-badge&logo=Codeforces&logoColor=white) | [<img src="https://codeforces.org/s/77049/apple-icon-57x57.png" alt="Codeforces" width="30"/>](https://codeforces.com/profile/Krypthor) |
 
 <br>
